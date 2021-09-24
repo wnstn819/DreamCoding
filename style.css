@@ -120,6 +120,10 @@
     font-weight: var(--weight-semi-bold);
     margin-left: 10px;
 }
+
+.navbar__menu__item.active{
+    border: 1px solid var(--color-white);
+}
 .navbar__menu__item{
     padding: 8px 12px;
     margin: 0 4px;
